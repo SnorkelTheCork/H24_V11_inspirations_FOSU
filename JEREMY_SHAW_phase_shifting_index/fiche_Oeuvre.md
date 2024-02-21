@@ -21,33 +21,33 @@ Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index 
 
 ![Installation immersive](Media/Installation_Interactive.jpg)
 ## Mise en espace
-L'affichage DEL est situé dans le milieu du pièce, sur une platforme de bois. situé devant et perpandiculaire de l'affichage est un écran avec des haut-parleurs à ses côtés et un ordinateur situé derrière l'ordi. 
+7 écrans sont suspendues dans la salle avec des câbles, accompagnés par des projecteurs, des haut-parleurs et des lumières DEL dans le but de bien transmettre l'idée de chaque vidéos et d'améliorer l'expérience des visiteurs. Des bancs sont aussi présents pour les visiteurs. 
 
 ![Vue ensemble](medias/photo_expo.jpg)
 
 ![Croquis 1](medias/photo_croquis.jpg)
 ## Composantes et techniques
-Installation immersive, bois, acier, acrylique, affichage DEL, ordinateur, haut-parleur, composants électroniques.
+Installation immersive, écran, 16mm VHS, Hi-8.
 
-![Ordinateur](Media/Ordi_edited.jpg)
+![16mm VHS](medias/photo_vhs.jpg)
 
-![Haut-parleur](Media/Haut_parleur_edited.jpg)
+![Hi-8](medias/photo_hi_8.jpg)
 ## Éléments nécessaires à la mise en exposition
-Platforme de bois, haut-parleurs, écran, étiquette du musée.
+bancs, haut-parleurs, câbles, cartel, projecteurs, lumières DEL.
 
-![Ordinateur](Media/Ordi_edited.jpg)
+![Projecteur](medias/photo_projecteur.jpg)
 
-![Haut-parleur](Media/Haut_parleur_edited.jpg)
+![Haut-parleur](medias/photo_haut_parleurs.jpg)
 
-![Vue 2](Media/Vue_2_edited.jpg)
+![Cartel](medias/photo_exemple_cartels.jpg)
 ## Expérience vécue
-Pour interagir avec Résonances, il faut simplement passer à travers l'affichage DEL, et l'image du personne apparaîtra sur l'écran. À mon avis, l'installation était amusant à interagir avec, mais ça na pas laissé des grandes impréssions sur moi.
+Il-y-a rien à vraiment faire, il faut juste observer les installations . À mon avis, les installations étaient amusant, mais j'étais confus pour la plupart du temps pendant l'expo.
 
 [![Gestes Interacteur](http://img.youtube.com/vi/JN5_vqRgjd0/0.jpg)](http://www.youtube.com/watch?v=JN5_vqRgjd0)
 ## Ce qui m'a plu
-J'ai aimé pouvoir interagir avec l'installation, parce que c'était un des seuls oeuvre qui était interactive.
+J'ai bien aimé quand les acteurs dans chaque installations ont commencés à faire les mêmes gestes.
 ## Ce que je ferait autrement
-J'aurait ajusté comment les images apparaient sur l'écran, parce que, la majorité du temps, les images des interacteurs avaient l'air vraiment bizarre.
+J'aurait bien séparés chaque installation dans chaque coins du salle, éloignés des autres, car plusieurs fois, l'audio des installations se mélangaient.
 
 ## Références
 https://fonderiedarling.org/Vernissage-de-Phase-Shifting-Index
