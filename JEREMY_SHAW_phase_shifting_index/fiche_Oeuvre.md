@@ -18,7 +18,7 @@ Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index 
 ![Cartel](medias/photo_cartel.jpg)
 ## Installation immersive
 
-![Installation immersive](Media/Installation_Interactive.jpg)
+[![Installation immersive](http://img.youtube.com/vi/ffSCU7o815o/0.jpg)](http://www.youtube.com/watch?v=ffSCU7o815o)
 ## Mise en espace
 7 écrans sont suspendues dans la salle avec des câbles, accompagnés par des projecteurs, des haut-parleurs et des lumières DEL dans le but de bien transmettre l'idée de chaque vidéos et d'améliorer l'expérience des visiteurs. Des bancs sont aussi présents pour les visiteurs. 
 
@@ -42,9 +42,11 @@ bancs, haut-parleurs, câbles, cartel, projecteurs, lumières DEL.
 ## Expérience vécue
 Il-y-a rien à vraiment faire, il faut juste observer les installations . À mon avis, les installations étaient amusant, mais j'étais confus pour la plupart du temps pendant l'expo.
 
-[![Gestes Interacteur](http://img.youtube.com/vi/JN5_vqRgjd0/0.jpg)](http://www.youtube.com/watch?v=JN5_vqRgjd0)
+[![Expérience visiteur](http://img.youtube.com/vi/AsykOM2vb28/0.jpg)](http://www.youtube.com/watch?v=AsykOM2vb28)
 ## Ce qui m'a plu
 J'ai bien aimé quand les acteurs dans chaque installations ont commencés à faire les mêmes gestes.
+[![Gestes similaires](http://img.youtube.com/vi/UxgAjFImIAQ/0.jpg)](http://www.youtube.com/watch?v=UxgAjFImIAQ)
+
 ## Ce que je ferait autrement
 J'aurait bien séparés chaque installation dans chaque coins du salle, éloignés des autres, car plusieurs fois, l'audio des installations se mélangaient.
 
