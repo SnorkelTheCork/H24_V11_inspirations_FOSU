@@ -1,36 +1,33 @@
 # TP1
 ## Exposition Jeremy Shaw
 
-![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
-## Fonderie Darling
+![Affiche Phase Shifting Index](medias/photo_expo.jpg)
+## Phase Shifting Index
 
-![Photo lieu](Media/Photo_d'entré_edited.jpg)
+## Fonderie Darling
+![Photo lieu](medias/photo_lieu.jpg)
 ## Exposition temporaire et intérieure
 ## Le 31 Janvier, 2024
-## Résonances
+## Phase Shifting Index
 
-![Photo Ensemble](Media/Vue_ensemble_edited.jpg)
+![Photo Ensemble](medias/photo_expo.jpg)
 ## Jeremy Shaw
-## 2023
+## 2020
 ## Description de l'oeuvre
-Cette boucle visuelle et sonore permet à l'interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière.
+Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. (https://fonderiedarling.org/Phase-Shifting-Index)
 
-![Vue 1](Media/Vue_1_edited.jpg)
+![Cartel](medias/photo_cartel.jpg)
+## Installation immersive
 
-![Vue 2](Media/Vue_2_edited.jpg)
-## Installation interactive
-
-![Installation interactive](Media/Installation_Interactive.jpg)
+![Installation immersive](Media/Installation_Interactive.jpg)
 ## Mise en espace
 L'affichage DEL est situé dans le milieu du pièce, sur une platforme de bois. situé devant et perpandiculaire de l'affichage est un écran avec des haut-parleurs à ses côtés et un ordinateur situé derrière l'ordi. 
 
-![Vue ensemble](Media/Vue_ensemble_edited.jpg)
+![Vue ensemble](medias/photo_expo.jpg)
 
-![Croquis 1](Media/Croquis_1_edited.jpg)
-
-![Croquis 2](Media/Croquis_2_edited.jpg)
+![Croquis 1](medias/photo_croquis.jpg)
 ## Composantes et techniques
-Installation interactive, bois, acier, acrylique, affichage DEL, ordinateur, haut-parleur, composants électroniques.
+Installation immersive, bois, acier, acrylique, affichage DEL, ordinateur, haut-parleur, composants électroniques.
 
 ![Ordinateur](Media/Ordi_edited.jpg)
 
@@ -56,3 +53,4 @@ J'aurait ajusté comment les images apparaient sur l'écran, parce que, la major
 https://fonderiedarling.org/Vernissage-de-Phase-Shifting-Index
 https://theshipyardsdistrict.ca/event/jeremy-shaw-phase-shifting-index
 https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/
+https://fonderiedarling.org/Phase-Shifting-Index
