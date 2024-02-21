@@ -1,5 +1,5 @@
 # Travail 1A
-## Exposition BIAN6
+## Exposition Jeremy Shaw
 
 ![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
 ## Arsenal 2020
