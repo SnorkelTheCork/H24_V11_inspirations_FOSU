@@ -51,6 +51,9 @@ J'aurait ajusté comment les images apparaient sur l'écran, parce que, la major
 
 ## Références
 https://fonderiedarling.org/Vernissage-de-Phase-Shifting-Index
+
 https://theshipyardsdistrict.ca/event/jeremy-shaw-phase-shifting-index
+
 https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/
+
 https://fonderiedarling.org/Phase-Shifting-Index
