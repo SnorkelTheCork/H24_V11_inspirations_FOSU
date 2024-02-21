@@ -2,7 +2,7 @@
 ## Exposition Jeremy Shaw
 
 ![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
-## Arsenal 2020
+## Fonderie Darling
 
 ![Photo lieu](Media/Photo_d'entré_edited.jpg)
 ## Exposition temporaire et intérieure
