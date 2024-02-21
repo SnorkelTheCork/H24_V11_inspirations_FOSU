@@ -10,8 +10,8 @@
 ## Résonances
 
 ![Photo Ensemble](Media/Vue_ensemble_edited.jpg)
-## Louis-Philippe Rondeau
-## 2021
+## Jeremy Shaw
+## 2023
 ## Description de l'oeuvre
 Cette boucle visuelle et sonore permet à l'interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière.
 
