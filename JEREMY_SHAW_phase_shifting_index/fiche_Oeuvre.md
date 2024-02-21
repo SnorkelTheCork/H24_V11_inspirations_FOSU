@@ -1,4 +1,4 @@
-# Travail 1A
+# TP1
 ## Exposition Jeremy Shaw
 
 ![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
@@ -6,7 +6,7 @@
 
 ![Photo lieu](Media/Photo_d'entré_edited.jpg)
 ## Exposition temporaire et intérieure
-## Le 2 Février, 2023
+## Le 31 Janvier, 2024
 ## Résonances
 
 ![Photo Ensemble](Media/Vue_ensemble_edited.jpg)
