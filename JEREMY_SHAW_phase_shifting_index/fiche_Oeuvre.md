@@ -1,8 +1,7 @@
 # TP1
-## Exposition Jeremy Shaw
+## Exposition Phase Shifting Index
 
 ![Affiche Phase Shifting Index](medias/photo_expo.jpg)
-## Phase Shifting Index
 
 ## Fonderie Darling
 ![Photo lieu](medias/photo_lieu.jpg)
