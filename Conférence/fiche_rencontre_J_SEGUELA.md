@@ -10,3 +10,6 @@ Les points abordés par Jade Séguela lors de la conférence comprenaient la fa�
 
 ## Mes appréciations
 En tout, je suis vraiment content d'avoir assisté à cette conférence car je ne suis pas très informé en matière de processus de création d'expositions, donc c'était bien d'avoir un expert pour m'expliquer ainsi qu'à tout le monde.
+
+## Références
+https://antimodular.com/
