@@ -4,7 +4,7 @@
 
 ## Lieu de l'exposition
 
-![Lieu_AoU](Médias/Lieu_Oasis.jpg)
+![Lieu_AoU](medias/lieu_AoU.PNG)
 
 ## Sun Room
 
