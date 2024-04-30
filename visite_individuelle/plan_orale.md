@@ -1,6 +1,6 @@
 # Age Of Union - Sun Room
 
-![Logo_AoU](Médias/Logo_Oasis.jpg)
+![Logo_AoU](medias/Affiche_AoU.PNG)
 
 ## Lieu de l'exposition
 
