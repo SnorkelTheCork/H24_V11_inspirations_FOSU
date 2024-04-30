@@ -4,9 +4,9 @@
 
 ## Lieu de l'exposition
 
-![Lieu_Oasis](Médias/Lieu_Oasis.jpg)
+![Lieu_AoU](Médias/Lieu_Oasis.jpg)
 
-## Galerie Téléporteur
+## Sun Room
 
 **Tokyo Light Odyssey, par WOW** 
 
