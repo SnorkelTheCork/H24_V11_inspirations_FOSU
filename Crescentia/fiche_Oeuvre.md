@@ -11,7 +11,8 @@
 ![Kigo_installation_2]()
 ![Kigo_installation_3]()
 
-### Schéma: ![Kigo_schéma]()
+### Schéma: 
+![Kigo_schéma](Médias/schema_kigo.png)
 
 ### Cours importants: 
 
@@ -24,7 +25,8 @@
 ![Canevas Cosmique]()
 ![Canevas Cosmique]()
 
-### Schéma: ![Canevas Cosmique_schéma]()
+### Schéma: 
+![Canevas Cosmique_schéma](Médias/schema_canevas_01.png)![Canevas Cosmique_schéma](Médias/schema_canevas_02.png)
 
 ### Cours importants: 
 
@@ -38,7 +40,8 @@
 ![Rhizomatique_2]()
 ![Rhizomatique_3]()
 
-### Schéma: ![Rhizomatique_Schéma]()
+### Schéma: 
+![Rhizomatique_Schéma](Médias/schema_rhiz.png)
 
 ### Cours importants: 
 
@@ -52,7 +55,8 @@
 ![Sonalux_2]()
 ![Sonalux_3]()
 
-### Schéma: ![Sonalux_Schéma]()
+### Schéma: 
+![Sonalux_Schéma](Médias/schema_sona_01.png) ![Sonalux_Schéma](Médias/schema_sona_02.png)![Sonalux_Schéma](Médias/schema_sona_03.png)![Sonalux_Schéma](Médias/schema_sona_04.png)
 
 ### Cours importants: 
 
@@ -65,7 +69,8 @@
 ![Effet-Papillon_installation]()
 ![Effet-Papillon_final]()
 
-### Schéma: ![Effet-Papillon_schéma]()
+### Schéma: 
+![Effet-Papillon_schéma](Médias/schema_papillon.jpg)![Effet-Papillon_schéma](Médias/schema_papillon_02.png)
 
 ### Cours importants: 
 
