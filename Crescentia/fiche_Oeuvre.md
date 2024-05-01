@@ -13,7 +13,7 @@
 
 ### Schéma: ![Kigo_schéma]()
 
-### Cours importants: Audio 2, Animation 2D, Design graphique
+### Cours importants: 
 
 ## 2. Canevas Cosmique
 ![Affichage_Canevas Cosmique]()
@@ -26,7 +26,7 @@
 
 ### Schéma: ![Canevas Cosmique_schéma]()
 
-### Cours importants: Animation 2D, Audio 2, Interactivité ludique  
+### Cours importants: 
 
 ## 3. Rhizomatique
 ![Affichage_Rhizomatique]()
@@ -40,7 +40,7 @@
 
 ### Schéma: ![Rhizomatique_Schéma]()
 
-### Cours importants: Interactivité ludique, Audio 2, Objets interactifs
+### Cours importants: 
 
 ## 4. Sonalux
 ![Affichage_Sonalux]()
@@ -54,7 +54,7 @@
 
 ### Schéma: ![Sonalux_Schéma]()
 
-### Cours importants: Objets interactifs, Traitement audiovisuel, Audio 2
+### Cours importants: 
 
 ## 5. Effet-Papillon
 ![Affichage_Effet-Papillon]()
@@ -67,7 +67,7 @@
 
 ### Schéma: ![Effet-Papillon_schéma]()
 
-### Cours importants: Objets interactifs, Installation multimédia, Traitement audiovisuel
+### Cours importants: 
 
 ## Références
 
