@@ -57,7 +57,7 @@
 ### Cours importants: 
 
 ## 5. Effet-Papillon
-![Affichage_Effet-Papillon](Médias/couverture _papillon.png)
+![Affichage_Effet-Papillon](Médias/couverture_papillon.png)
 
 ### Créateurs: Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 
