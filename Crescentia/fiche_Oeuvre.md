@@ -5,7 +5,7 @@
 ![Affichage_Kigo](Médias/couverture_kigo.png)
 
 ### Créateurs: Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
-
+L'installation Kigo se base principalement sur les saisons et comment ils se changent constament. Ceci est une bonne exemple d'évolution environnementale.
 
 ![Kigo_installation_1]()
 ![Kigo_installation_2]()
@@ -20,7 +20,7 @@
 ![Affichage_Canevas Cosmique](Médias/couverture_canevas.png)
 
 ### Créateurs: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
-
+L'installation Canevas Cosmique à pour but de démontrer les différents phénomènes astronomiques, une autre exemple d'évolution environnementale.
 
 ![Canevas Cosmique]()
 ![Canevas Cosmique]()
@@ -34,7 +34,7 @@
 ![Affichage_Rhizomatique](Médias/couverture_rhiz.png)
 
 ### Créatrices: Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
-
+L'installation Rhizomatique nous montre le lien entre le temps et les souvenirs et comment le précédent affect ceci. Le lien entre Rhizomatique et l'évolution psychologique est bien évident.
 
 ![Rhizomatique_1]()
 ![Rhizomatique_2]()
@@ -49,7 +49,7 @@
 ![Affichage_Sonalux](Médias/couverture_sona.png)
 
 ### Créateurs: Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
-
+L'installation Sonalux nous poussent au-dessus de les limites du réel et nous apportent dans une monde sans contraintes pour nous donner le contrôle totale. Je dirai que ceci est une exemple d'évolution humaine.
 
 ![Sonalux_1]()
 ![Sonalux_2]()
@@ -64,7 +64,7 @@
 ![Affichage_Effet-Papillon](Médias/couverture_papillon.png)
 
 ### Créateurs: Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
-
+L'installation Effet-Papillon nous montre le cycle de vie d'un pommier et comment l'effet-papillon de nos choix peut affecter le pommier.  L'évolution organique et les conséquences de nos gestes sont mises en evidence.
 
 ![Effet-Papillon_installation]()
 ![Effet-Papillon_final]()
