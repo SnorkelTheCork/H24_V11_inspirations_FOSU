@@ -2,7 +2,7 @@
 ![site web](Médias/crescentia_siteweb.png)
 
 ## 1. Kigo
-![Affichage_Kigo]()
+![Affichage_Kigo](Médias/couverture_kigo.png)
 
 ### Créateurs: Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
@@ -16,7 +16,7 @@
 ### Cours importants: 
 
 ## 2. Canevas Cosmique
-![Affichage_Canevas Cosmique]()
+![Affichage_Canevas Cosmique](Médias/couverture_canevas.png)
 
 ### Créateurs: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 
@@ -29,7 +29,7 @@
 ### Cours importants: 
 
 ## 3. Rhizomatique
-![Affichage_Rhizomatique]()
+![Affichage_Rhizomatique](Médias/couverture_rhiz.png)
 
 ### Créatrices: Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
 
@@ -43,7 +43,7 @@
 ### Cours importants: 
 
 ## 4. Sonalux
-![Affichage_Sonalux]()
+![Affichage_Sonalux](Médias/couverture_sona.png)
 
 ### Créateurs: Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
@@ -57,7 +57,7 @@
 ### Cours importants: 
 
 ## 5. Effet-Papillon
-![Affichage_Effet-Papillon]()
+![Affichage_Effet-Papillon](Médias/couverture _papillon.png)
 
 ### Créateurs: Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 
