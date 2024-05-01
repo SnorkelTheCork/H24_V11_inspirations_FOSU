@@ -22,7 +22,7 @@
 
 ## Mon expérience
 
-[![Expérience_vécue](http://img.youtube.com/vi/cYig-_i5av0/0.jpg)](http://www.youtube.com/watch?v=cYig-_i5av0)
+[![Expérience_vécue](http://img.youtube.com/vi/c8P1kLO8Dh4.jpg)](http://www.youtube.com/watch?v=c8P1kLO8Dh4)
 
 ## Références
 
