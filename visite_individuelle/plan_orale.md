@@ -8,23 +8,19 @@
 
 ## Sun Room
 
-**Tokyo Light Odyssey, par WOW** 
+**Sun Room, par Adam Hummell et Kelly Nunes** 
 
-![Tokyo_light_odyssey](Médias/Tokyo_light_odyssey.jpg)
+![Sun Room Panneau](medias/panneau.jpg)
 
-**Container, par Meghna Singh et Simon Wood** 
+![Sun Room Citation](medias/citation.jpg)
 
-![Container](Médias/Container.jpg)
+![SR 1](medias/sun_room_01.jpg)
 
-**Ferenj, par Ainslee Alem Robson**
+![SR 2](medias/sun_room_02.jpg)
 
-![Ferenj](Médias/Ferenj.jpg)
+![SR 3](medias/sun_room_03.jpg)
 
 ## Mon expérience
-
-![Téléporteur_1](Médias/Téléporteur_1.jpg)
-
-![Téléporteur_2](Médias/Téléporteur_2.jpg)
 
 [![Expérience_vécue](http://img.youtube.com/vi/cYig-_i5av0/0.jpg)](http://www.youtube.com/watch?v=cYig-_i5av0)
 
