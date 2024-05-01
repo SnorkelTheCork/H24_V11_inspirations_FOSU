@@ -33,9 +33,7 @@ L'installation Canevas Cosmique à pour but de démontrer les différents phéno
 ### Créatrices: Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
 L'installation Rhizomatique nous montre le lien entre le temps et les souvenirs et comment le précédent affect ceci. Le lien entre Rhizomatique et l'évolution psychologique est bien évident.
 
-![Rhizomatique_1]()
-![Rhizomatique_2]()
-![Rhizomatique_3]()
+[![Vid Rhizomatique](http://img.youtube.com/vi/BGEPMtxHHlc.jpg)](http://www.youtube.com/watch?v=BGEPMtxHHlc)
 
 ### Schéma: 
 ![Rhizomatique_Schéma](Médias/schema_rhiz.png)
@@ -48,9 +46,7 @@ L'installation Rhizomatique nous montre le lien entre le temps et les souvenirs 
 ### Créateurs: Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 L'installation Sonalux nous poussent au-dessus de les limites du réel et nous apportent dans une monde sans contraintes pour nous donner le contrôle totale. Je dirai que ceci est une exemple d'évolution humaine.
 
-![Sonalux_1]()
-![Sonalux_2]()
-![Sonalux_3]()
+[![Vid Sona](http://img.youtube.com/vi/2ReARH2HUoE.jpg)](http://www.youtube.com/watch?v=2ReARH2HUoE)
 
 ### Schéma: 
 ![Sonalux_Schéma](Médias/schema_sona_01.png) ![Sonalux_Schéma](Médias/schema_sona_02.png)![Sonalux_Schéma](Médias/schema_sona_03.png)![Sonalux_Schéma](Médias/schema_sona_04.png)
