@@ -7,9 +7,7 @@
 ### Créateurs: Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 L'installation Kigo se base principalement sur les saisons et comment ils se changent constament. Ceci est une bonne exemple d'évolution environnementale.
 
-![Kigo_installation_1]()
-![Kigo_installation_2]()
-![Kigo_installation_3]()
+![Kigo_installation_1](Médias/zone_kigo_01.jpg)![Kigo_installation_2](Médias/zone_kigo_02.jpg)
 
 ### Schéma: 
 ![Kigo_schéma](Médias/schema_kigo.png)
@@ -22,8 +20,7 @@ L'installation Kigo se base principalement sur les saisons et comment ils se cha
 ### Créateurs: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 L'installation Canevas Cosmique à pour but de démontrer les différents phénomènes astronomiques, une autre exemple d'évolution environnementale.
 
-![Canevas Cosmique]()
-![Canevas Cosmique]()
+![Canevas Cosmique 1](Médias/canevas.jpg)![Canevas Cosmique 2](Médias/info_canevas.jpg)
 
 ### Schéma: 
 ![Canevas Cosmique_schéma](Médias/schema_canevas_01.png)![Canevas Cosmique_schéma](Médias/schema_canevas_02.png)
@@ -66,8 +63,7 @@ L'installation Sonalux nous poussent au-dessus de les limites du réel et nous a
 ### Créateurs: Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 L'installation Effet-Papillon nous montre le cycle de vie d'un pommier et comment l'effet-papillon de nos choix peut affecter le pommier.  L'évolution organique et les conséquences de nos gestes sont mises en evidence.
 
-![Effet-Papillon_installation]()
-![Effet-Papillon_final]()
+![Effet-Papillon_installation](Médias/zone_effet_papillon.jpg)
 
 ### Schéma: 
 ![Effet-Papillon_schéma](Médias/schema_papillon.jpg)![Effet-Papillon_schéma](Médias/schema_papillon_02.png)
