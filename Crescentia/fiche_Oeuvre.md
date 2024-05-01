@@ -12,7 +12,7 @@ Je l'ai mis en premier parce que, selon moi, c'était l'installation le plus amu
 
 ### Schéma: 
 ![Kigo_schéma](Médias/schema_kigo.png)
-![Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
+[Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
 ## 2. Canevas Cosmique
 ![Affichage_Canevas Cosmique](Médias/couverture_canevas.png)
@@ -25,7 +25,7 @@ Cela est deuxième car c'était vraiment interactif, les visuels étaient bien f
 
 ### Schéma: 
 ![Canevas Cosmique_schéma](Médias/schema_canevas_01.png)![Canevas Cosmique_schéma](Médias/schema_canevas_02.png)
-![Canevas](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
+[Canevas](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
 
 ## 3. Rhizomatique
 ![Affichage_Rhizomatique](Médias/couverture_rhiz.png)
@@ -38,7 +38,7 @@ Rhizomatique est le troisième parce qu'il avait bien traiter le sujet et c'éta
 
 ### Schéma: 
 ![Rhizomatique_Schéma](Médias/schema_rhiz.png)
-![Rhiz](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+[Rhiz](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
 
 ## 4. Sonalux
 ![Affichage_Sonalux](Médias/couverture_sona.png)
@@ -51,7 +51,7 @@ Sonalux a la quatrième place car le thème m'avais quand même échapper pendan
 
 ### Schéma: 
 ![Sonalux_Schéma](Médias/schema_sona_01.png) ![Sonalux_Schéma](Médias/schema_sona_02.png)![Sonalux_Schéma](Médias/schema_sona_03.png)![Sonalux_Schéma](Médias/schema_sona_04.png)
-![Sona](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+[Sona](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## 5. Effet-Papillon
 ![Affichage_Effet-Papillon](Médias/couverture_papillon.png)
@@ -64,7 +64,7 @@ L'Effet-Papillon est dernière parce que tandis que j'ai compris qu'est ce qu'il
 
 ### Schéma: 
 ![Effet-Papillon_schéma](Médias/schema_papillon.jpg)![Effet-Papillon_schéma](Médias/schema_papillon_02.png)
-![Papillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html)
+[Papillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html)
 
 ### Cours importants: Interactivité ludique, Modélisation 3D, Traitement audiovisuel.
 
